@@ -1,8 +1,8 @@
 # Social Media Mobile App
 
 **Description:** This is an online social network platform that offers users a wide range of features to connect, share, and engage with one another.
-Frontend:
-Backend:
+
+- Link BE: https://github.com/quangnv0212/be-insta
 
 **Features:**
 
@@ -27,22 +27,3 @@ Backend:
       ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.18.15.png](https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/392947035_3663078770588293_7261522311575571318_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Qxt4fBtfFaYAX-eCKR8&_nc_ht=scontent-hkg4-1.xx&_nc_e2o=s&oh=00_AfCsZzZPjr2mU0RFcklNDFxDYjxHqbbdszidclYY5Jr9dw&oe=6534D6BF)
       ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.18.15.png](https://scontent-hkg4-2.xx.fbcdn.net/v/t39.30808-6/393267662_3663078860588284_5814683019402257411_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=K9vZf9lwGu8AX8kdOKl&_nc_ht=scontent-hkg4-2.xx&_nc_e2o=s&oh=00_AfBewPIg9YjtYiXi0LorPgudqoobpIMZzdY7e2UAhMO2VA&oe=653502FE)
       ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.18.15.png](https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/393265433_3663079420588228_6071158252567319890_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VlGq_r9vzggAX8kXYqR&_nc_ht=scontent-hkg4-1.xx&_nc_e2o=s&oh=00_AfCjBKsU9FM8V8w3ujbuZWE-w4pP_pIVwuACAgxRD_ooRg&oe=6535CD83)
-
-    ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.28.55.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.28.55.png)
-    
-    ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.29.02.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.29.02.png)
-    
-    ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.18.36.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.18.36.png)
-    
-    ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.19.17.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.19.17.png)
-    
-    ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.28.08.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.28.08.png)
-    
-
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.18.15.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.18.15.png)
-
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.18.43.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.18.43.png)
-
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.18.27.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.18.27.png)
-
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.18.31.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.18.31.png)

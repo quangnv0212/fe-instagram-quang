@@ -1,79 +1,40 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Social Media Mobile App
 
-# Getting Started
+**Description:** This is an online social network platform that offers users a wide range of features to connect, share, and engage with one another.
+Frontend:
+Backend:
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+**Features:**
 
-## Step 1: Start the Metro Server
+- Authentication: The platform includes registration, login, and password recovery functionalities.
+- Users can post statuses, comment on posts, and like posts
+- Real-time chat functionality is integrated using Socket.io.
+- Users have the ability to customize their avatar and cover photo displayed on their prole page.
+- Users can follow and be friend other users, fostering connections within the community.
+- The platform also oers dierent display options, including Dark mode and Light mode, to cater to individual preferences.
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+**Techonologies:**
 
-To start Metro, run the following command from the _root_ of your React Native project:
+- Frontend: React Native CLI
+- Backend: NodeJS, ExpressJS, Mongoose.
 
-```bash
-# using npm
-npm start
+- Database: MongoDB.
+    
+    ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.28.55.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.28.55.png)
+    
+    ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.29.02.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.29.02.png)
+    
+    ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.18.36.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.18.36.png)
+    
+    ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.19.17.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.19.17.png)
+    
+    ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.28.08.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.28.08.png)
+    
 
-# OR using Yarn
-yarn start
-```
+![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.18.15.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.18.15.png)
 
-## Step 2: Start your Application
+![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.18.43.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.18.43.png)
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.18.27.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.18.27.png)
 
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 13.18.31.png](Social%20Media%20Mobile%20App%2012b618caf5ba44dcaa4d808e171de4a1/Simulator_Screenshot_-_iPhone_15_Pro_-_2023-10-19_at_13.18.31.png)

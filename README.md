@@ -9,9 +9,9 @@
 - Authentication: The platform includes registration, login, and password recovery functionalities.
 - Users can post statuses, comment on posts, and like posts
 - Real-time chat functionality is integrated using Socket.io.
-- Users have the ability to customize their avatar and cover photo displayed on their prole page.
+- Users have the ability to customize their avatar and cover photo displayed on their profile page.
 - Users can follow and be friend other users, fostering connections within the community.
-- The platform also oers dierent display options, including Dark mode and Light mode, to cater to individual preferences.
+- The platform also offers different display options, including Dark mode and Light mode, to cater to individual preferences.
 
 **Techonologies:**
 
